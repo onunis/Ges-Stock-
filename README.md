@@ -119,4 +119,4 @@ O projeto pode ser testado manualmente no Expo Go, mas futuramente pode ser este
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT.
+Este projeto está licenciado sob a licença MIT .
